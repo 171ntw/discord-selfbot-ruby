@@ -36,3 +36,6 @@ token=YOUR_DISCORD_USER_TOKEN_HERE
 ```bash
 ruby main.rb
 ```
+
+# Developer's
+- **Nathan**: https://github.com/171ntw
