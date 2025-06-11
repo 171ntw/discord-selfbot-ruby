@@ -40,8 +40,4 @@ ruby main.rb
 ```
 
 # Developer's
-<<<<<<< HEAD
 - **Nathan**: https://github.com/171ntw
-=======
-- **Nathan**: https://github.com/171ntw
->>>>>>> 34acdfa10617e865844c364ce9112053542c40af
