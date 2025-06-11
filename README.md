@@ -6,13 +6,15 @@
 ### Functions
 
 - Clear (DM/CHANNEL) | `🟢`
+- Clear ALL | `🟢`
+- Remove All Friends | `🟢`
 - Upcoming Features | `🟡`
 
 ### Git Clone
 
 ```bash
-git clone https://github.com/171ntw/discord-selfbot.rb.git
-cd discord-self-bot
+git clone https://github.com/171ntw/discord-selfbot-ruby.git
+cd discord-selfbot-ruby-main
 ```
 
 ### Install Dependencies
@@ -36,3 +38,6 @@ token=YOUR_DISCORD_USER_TOKEN_HERE
 ```bash
 ruby main.rb
 ```
+
+# Developer's
+- **Nathan**: https://github.com/171ntw

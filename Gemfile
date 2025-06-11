@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'discordrb'
+ruby '2.7.0'
+
 gem 'dotenv'
 gem 'colorize'
