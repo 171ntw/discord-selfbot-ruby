@@ -11,8 +11,8 @@
 ### Git Clone
 
 ```bash
-git clone https://github.com/171ntw/discord-selfbot.rb.git
-cd discord-self-bot
+git clone https://github.com/171ntw/discord-selfbot-ruby.git
+cd discord-selfbot-ruby-main
 ```
 
 ### Install Dependencies
